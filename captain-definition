@@ -1,4 +1,4 @@
 {
  "schemaVersion" :2 ,
- "dockerfilePath" :"./nginx_rp/Dockerfile"
+ "dockerfilePath" :"./Dockerfile"
 }
